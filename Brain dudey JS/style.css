@@ -1,0 +1,88 @@
+.divheading{
+    width:100%;
+    height: 250px;
+    background-color: dimgrey;
+    position: relative;
+}
+.divheadingtexth1> span{
+    background-color: yellow;
+    margin-left: 39%;
+    padding:15px;
+    font-size: 30px;
+    border-radius: 5px;
+
+}
+.divheadingtexth1{
+    background-color: white;
+    width: 100%;
+    height: 35px;
+    bottom: 10px;
+    position: absolute;
+
+}
+.profileh1 >i{
+    color: yellow;
+    background-color: dimgray;
+    border:5px dotted yellow;
+    padding:10px ;
+    border-radius: 50%;
+}
+.skillsh1 >i{
+    color: yellow;
+    background-color: dimgray;
+    border:5px dotted yellow;
+    padding:10px ;
+    border-radius: 50%;
+
+}
+.workh1 >i{
+    color: yellow;
+    background-color: dimgray;
+    border:5px dotted yellow;
+    padding:10px ;
+    border-radius: 50%;
+
+}
+.educationh1 >i{
+    color: yellow;
+    background-color: dimgray;
+    border:5px dotted yellow;
+    padding:10px ;
+    border-radius: 50%;
+
+}
+.workeh1 >i{
+    color: yellow;
+    background-color: dimgray;
+    border:5px dotted yellow;
+    padding:10px ;
+    border-radius: 50%;
+
+}
+.pra{
+    text-align: center;
+    align-items: center;
+}
+.containerleft{
+    padding-left: 50px;
+}
+.code{
+    width: 3px;
+    background-color:dimgray;
+    margin-left: 15%;
+}
+.container{
+    display: flex;
+}
+.rightcontainer{
+    margin-left: 10%;
+
+}
+.headimg >div>img{
+    width: 130px;
+    height: 130px;
+    border: 3px dotted yellow;
+    border-radius: 50%;
+    margin-top: 55px;
+    margin-left: 42%;
+}
